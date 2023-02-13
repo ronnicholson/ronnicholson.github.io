@@ -1,0 +1,106 @@
+/* General Website Rules */
+body {
+    min-height: 100vh;
+    /* width: 980px; */
+    margin: 0 auto;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.logo_div {
+    background-color: #fff;
+    height: 200px;
+    vertical-align: middle;
+}
+
+.logo_img {
+    max-height: 120px;
+    max-width: auto;
+    position: relative;
+    top: 45%;
+    transform: translateY(-50%);
+}
+
+.evsp_div {
+    border-color: black;
+    border-top-style: solid;
+    border-width: 3px;
+    background-color: #fff;
+    height: 150px;
+    vertical-align: middle;
+}
+
+.evsp_p {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    margin: 2px;
+    padding: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.hero_div {
+    background-color: #fff;
+}
+
+.odnallc_p {
+    /* position: relative; */
+    /* top: 45%; */
+    /* transform: translateY(-50%); */
+    text-align: center;
+    margin: 2px;
+    padding: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 72px;
+    font-weight: normal
+}
+
+.hero_img {
+    width: 100%;
+    position: relative;
+}
+
+.umbrellaParent_div {
+    vertical-align: middle;
+    border: 3px solid #000;
+    padding: 10px;
+    min-height: 450px;
+}
+.umbrella_div {
+    width: 47%;
+    height: 100%;
+    float: left;
+    margin: 10px auto;
+    border: 3px solid red;
+    padding: 10px;
+    /* position: relative;
+    top: 45%;
+    transform: translateY(-50%); */
+}
+.umbrella_p {
+    margin: 20px;
+    border: 3px solid ed;
+    /* position: relative; */
+    /* text-align: center; */
+    vertical-align: middle;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+    height: 100%;
+    /* position: relative; */
+    /* top: 50%;
+    transform: translateY(70%); */
+}
+
+.umbrella_img {
+    width: 90%;
+    /* height: 90%; */
+    position: relative;
+    /* margin: 20px auto; */
+    text-align: center;
+}
